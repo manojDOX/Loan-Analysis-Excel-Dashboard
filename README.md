@@ -6,6 +6,11 @@ This case study applies advanced data analysis techniques using Excel to deeply 
 
 These efforts aim to provide strategic recommendations for optimizing loan portfolio management, mitigating risks, and enhancing decision-making processes for financial institutions.
 
+---
+[Excel Preview Link](https://docs.google.com/spreadsheets/d/1f6D2Q6TN4apfn6vzZSbTJ5S6p4GUUjJ3/edit?usp=sharing&ouid=107344013600274319236&rtpof=true&sd=true)
+
+---
+
 <img width="797" height="484" alt="Loan_excel" src="https://github.com/user-attachments/assets/5ca4c0d9-7bea-4a5e-89d0-fa5d6d364063" />
 
 
